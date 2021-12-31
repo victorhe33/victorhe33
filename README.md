@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @victorhe33
+- 👋 Hi, I’m @victorhe33, NYC professional interested in software/development.
 - 👀 I’m interested in html, css, javascript.
-- 🌱 I’m currently learning web development through Odin Project.
+- 🌱 I’m currently learning web development through Odin Project, aiming to attend web development bootcamp 2022.
 - 💞️ I’m looking to collaborate on beginner web projects
 - 📫 How to reach me via email @ victorhe33@gmail.com, discord @ victorhe33
 
