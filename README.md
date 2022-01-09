@@ -2,7 +2,7 @@
 - 👀 I’m interested in html, css, javascript and other relevant technologies.
 - 🌱 I’m currently learning web development through Odin Project/App Academy Open, aiming to attend web development bootcamp 2022.
 - 💞️ I’m looking to collaborate on beginner web projects
-- 📫 How to reach me via email @ victorhe33@gmail.com, discord @ victorhe33
+- 📫 How to reach me via email @ victorhe33@gmail.com, discord @slickvic33
 
 <!---
 victorhe33/victorhe33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
