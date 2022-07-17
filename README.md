@@ -7,7 +7,8 @@
 - 📫 How to reach me via email @ victorhe33@gmail.com, discord @slickvic33#5776
 
 <h3> Currently Learning... </h3>
-** React **
+
+**React**
 
 <!---
 victorhe33/victorhe33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
