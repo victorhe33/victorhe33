@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning web development through Odin Project, am currently attending Codesmith Software Immersive this year, June 2022 PTRI 8 Cohort.
 - 💞️ I’m looking to connect with other web developers.
 - 📫 How to reach me via email @ victorhe33@gmail.com, discord @slickvic33#5776
+- 💼 [Linked In] (https://www.linkedin.com/in/victorhe33/)
 
 <h3> Currently Learning... </h3>
 
