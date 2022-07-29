@@ -10,6 +10,7 @@
 <h3> Currently Learning... </h3>
 
 **React**
+
 **Redux**
 
 <!---
