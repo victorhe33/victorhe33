@@ -10,6 +10,7 @@
 <h3> Currently Learning... </h3>
 
 **React**
+**Redux**
 
 <!---
 victorhe33/victorhe33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
