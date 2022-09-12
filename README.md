@@ -13,9 +13,11 @@
 
 **Redux**
 
-**Testing (Jest)**
+**Express**
 
 **Databases (SQL and noSQL)**
+
+**Webpack**
 
 <!---
 victorhe33/victorhe33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
