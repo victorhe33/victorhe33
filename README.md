@@ -15,7 +15,7 @@
 
 **Express**
 
-**Databases (SQL and noSQL)**
+**Databases (PostGreSQL and MongoDB)**
 
 **Webpack**
 
