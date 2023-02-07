@@ -3,7 +3,7 @@
 - 👋 Hi, my name is Victor He. I'm a Software Engineer located in NYC.
 - 👀 I’m interested in solving complex problems with interesting technologies.
 - 🌱 I’m currently working on SafeQL, an open source product which provides graphQL developers convenient endpoint metrics and security vunerability analysis.
-- 💞️ I’m looking to connect with other software developers!.
+- 💞️ I’m looking to connect with other software developers!
 - 📫 How to reach me via email @ victorhe33@gmail.com, discord @slickvic33#5776
 - 💼 [Linked In](https://www.linkedin.com/in/victorhe33/)
 
