@@ -19,6 +19,8 @@
 
 **SQL and NoSQL Databases**
 
+**Django**
+
 **AWS**
 
 <!---
