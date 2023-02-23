@@ -6,7 +6,7 @@
 - 💞️ I’m looking to connect with other software developers / those in the technology space!
 - 💼 [Linked In](https://www.linkedin.com/in/victorhe33/)
 
-<h3> Currently Using </h3>
+<h3> Currently Working With: </h3>
 
 **NextJS**
 
@@ -16,11 +16,11 @@
 
 **Express**
 
-**SQL and NoSQL Databases**
+**SQL**
 
 **Django**
 
-**AWS**
+**AWS (DynamoDB, CDK)**
 
 **Jest**
 
