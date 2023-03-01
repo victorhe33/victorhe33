@@ -8,6 +8,8 @@
 
 <h3> Currently Working With: </h3>
 
+**TypeScript**
+
 **NextJS**
 
 **React**
