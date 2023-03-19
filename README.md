@@ -14,6 +14,8 @@
 
 **React**
 
+**Prisma**
+
 **NodeJS**
 
 **Express**
