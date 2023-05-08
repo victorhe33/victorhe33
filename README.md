@@ -22,7 +22,7 @@
 
 **Express**
 
-**SQL**
+**SQL / noSQL**
 
 **Django**
 
