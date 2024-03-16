@@ -16,15 +16,11 @@
 
 **React**
 
-**Prisma**
-
 **NodeJS**
 
 **Express**
 
 **SQL / noSQL**
-
-**Django**
 
 **AWS (DynamoDB, CDK)**
 
@@ -34,7 +30,9 @@
 
 **GraphQL**
 
-**Apollo**
+**Kotlin**
+
+**Spring GraphQL**
 
 <!---
 victorhe33/victorhe33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
