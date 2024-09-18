@@ -22,6 +22,8 @@
 
 **SQL / noSQL**
 
+**GoLang**
+
 **AWS (DynamoDB, CDK)**
 
 **Jest**
