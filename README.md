@@ -16,7 +16,7 @@
 
 **Datadog, Snowflake**
 
-**SQL / noSQL**
+**PostgreSQL**
 
 **Docker**
 
@@ -37,6 +37,8 @@
 **Express**
 
 **GraphQL**
+
+**noSQL**
 
 <!---
 victorhe33/victorhe33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
